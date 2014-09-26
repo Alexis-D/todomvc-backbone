@@ -1,0 +1,11 @@
+{
+  "name": "todomvc-template",
+  "version": "0.0.0",
+  "dependencies": {
+    "todomvc-common": "~0.1.4",
+    "backbone": "~1.1.2",
+    "jquery": "~2.1.1",
+    "requirejs": "~2.1.15",
+    "swig": "https://paularmstrong.github.io/swig/js/swig.js"
+  }
+}
